@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ <channel>
+  <title>Medicare Spotlights</title>
+  <description>Medicare.gov spotlights are self published by agency. Data for each spotlight is hosted on medicare.gov.</description>
+  <lastBuildDate>Thu, 02 Apr 2009 12:05:51 GMT</lastBuildDate>
+  <generator>ListGarden Program 1.3.1</generator>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  
+  <item>
+   <title>Know What to do about the Flu. </title>
+   <link>http://www.flu.gov</link>
+   <description>Seasonal flu shots are available right now. H1N1 (Swine) flu vaccine is being shipped and will soon be widely available.</description>
+   <pubDate>Thu, 22 Oct 2009 17:55:06 GMT</pubDate>
+  </item>
+  
+  <item>Thu, 22 Oct 2009
+   <title>Lower Your Costs During the Coverage Gap</title>
+   <link>http://www.medicare.gov/bridging-the-gap.asp</link>
+   <description>This page will help you to learn 5 ways to lower your costs during the coverage gap.</description>
+   <pubDate> 17:59:28 GMT</pubDate>
+  </item>
+  <item>
+   <title>Learn More About Plans in Your Area</title>
+   <link>http://www.medicare.gov/MPDPF/Public/Include/DataSection/Questions/SelectState.asp</link>
+   <description>Part of the Medicare Prescription Drug Plan Finder tool that will help you to identify the plans in your state.</description>
+   <pubDate>Thu, 22 Oct 2009 18:00:39 GMT</pubDate>
+  </item>
+    
+  <item>
+   <title>Medicare &amp; You 2010</title>
+   <link>http://www.medicare.gov/Pubs/pdf/10050.pdf</link>
+   <description>Medicare &amp;amp; You contains important information about what's new, health plans, prescription drug plans, and rights and protections to help people with Medicare review their coverage options and prepare to enroll in a new plan if they choose. It is available in both English and Spanish.&lt;br>&lt;br>Each fall, the Centers for Medicare &amp;amp; Medicaid Services mails a geographic-specific version to all households of people with Medicare. In 2009, there are 59 geographic-specific versions with drug and health plan comparison charts for particular states or regions.</description>
+   <pubDate>Thu, 22 Oct 2009 17:25:21 GMT</pubDate>
+  </item>
+  <item>
+   <title>MyMedicare.gov</title>
+   <link>http://mymedicare.gov/</link>
+   <description>MyMedicare.gov provides direct Internet access to your Medicare benefits, eligibility, enrollment (including prescription drug plans) and preventive health information - 24 hours a day, 7 days a week. Visit the site, sign up, and Medicare will mail you a password to allow you access to your personal Medicare information. MyMedicare.gov also allows you to view your adjudicated claims information, access online forms and publications, and receive important messages from Medicare. </description>
+   <pubDate>Thu, 22 Oct 2009 17:23:54 GMT</pubDate>
+  </item>
+ </channel>
+</rss>
